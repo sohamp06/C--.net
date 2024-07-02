@@ -1,0 +1,10 @@
+C:\Users\soham\source\repos\Assignment #3\Assignment #3\bin\Debug\Assignment #3.exe.config
+C:\Users\soham\source\repos\Assignment #3\Assignment #3\bin\Debug\Assignment #3.exe
+C:\Users\soham\source\repos\Assignment #3\Assignment #3\bin\Debug\Assignment #3.pdb
+C:\Users\soham\source\repos\Assignment #3\Assignment #3\obj\Debug\Assignment #3.csproj.AssemblyReference.cache
+C:\Users\soham\source\repos\Assignment #3\Assignment #3\obj\Debug\Assignment__3.Properties.Resources.resources
+C:\Users\soham\source\repos\Assignment #3\Assignment #3\obj\Debug\Assignment__3.Service.resources
+C:\Users\soham\source\repos\Assignment #3\Assignment #3\obj\Debug\Assignment #3.csproj.GenerateResource.cache
+C:\Users\soham\source\repos\Assignment #3\Assignment #3\obj\Debug\Assignment #3.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\Assignment #3\Assignment #3\obj\Debug\Assignment #3.exe
+C:\Users\soham\source\repos\Assignment #3\Assignment #3\obj\Debug\Assignment #3.pdb

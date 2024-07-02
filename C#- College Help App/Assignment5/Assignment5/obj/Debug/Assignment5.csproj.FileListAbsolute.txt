@@ -1,0 +1,16 @@
+C:\Users\soham\source\repos\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\soham\source\repos\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\soham\source\repos\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\soham\source\repos\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.AssemblyReference.cache
+C:\Users\soham\source\repos\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+C:\Users\soham\source\repos\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.cache
+C:\Users\soham\source\repos\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\soham\source\repos\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+C:\Users\soham\source\repos\Assignment5\Assignment5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\soham\source\repos\Assignment5\Assignment5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\soham\source\repos\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CopyComplete
+C:\Users\soham\source\repos\Assignment5\Assignment5\obj\Debug\Assignment5.registationApp.resources
+C:\Users\soham\source\repos\Assignment5\Assignment5\obj\Debug\Assignment5.ReadHelp.resources
+C:\Users\soham\source\repos\Assignment5\Assignment5\obj\Debug\Assignment5.AboutDCRegistationApp.resources
+C:\Users\soham\source\repos\Assignment5\Assignment5\obj\Debug\Assignment5.TechnicalSupport.resources
